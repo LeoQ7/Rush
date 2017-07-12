@@ -1,5 +1,5 @@
 # Rush
-A bash written in Rust for IST course of ShanghaiTech University.
+A toy bash written in Rust for IST course of ShanghaiTech University.
 
 >### Input language
 >
